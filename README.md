@@ -47,3 +47,15 @@ La simulación consto de xxx pasos
 </div>
 
 Se realizaron las siguientes visualizaciones:
+
+## Campeones
+
+![Probabilidades Mejores Equipos](Visualizaciones/Probabilidad_Mejores_Equipos.gif)
+![Probabilidad de ser campeon](Visualizaciones/Campeones.png)
+
+## Clasificados a Champions League
+![Probabilidad de clasificar a champion](Visualizaciones/clasificar_a_champion_lollipop.png)
+## Clasificados a Europa League
+![Probabilidad de clasificar a champion](Visualizaciones/Campeones.png)
+## Descensos
+![Probabilidad de descender](Visualizaciones/descender_a_segunda_division_lollipop.png)
