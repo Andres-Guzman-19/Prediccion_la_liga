@@ -56,6 +56,6 @@ Se realizaron las siguientes visualizaciones:
 ## Clasificados a Champions League
 ![Probabilidad de clasificar a champion](Visualizaciones/clasificar_a_champion_lollipop.png)
 ## Clasificados a Europa League
-![Probabilidad de clasificar a champion](Visualizaciones/Campeones.png)
+![Probabilidad de clasificar a champion](Visualizaciones/clasificar_a_Europa_lollipop.png)
 ## Descensos
 ![Probabilidad de descender](Visualizaciones/descender_a_segunda_division_lollipop.png)
