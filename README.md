@@ -6,7 +6,6 @@
 
 Este proyecto tiene como objetivo predecir los campeones, clasificados a Champion League, clasificados a Europa League y descendidos en la liga Española.
 El proyecto se compone de 4 partes principales:
-- [Web Scraping de las ppaginas](#book-obtencion-de-información) 
 - [Obtencion de la información](#book-obtencion-de-información)
 - [Entreamiento del modelo](#bicyclist-entrenamiento-de-modelo)
 - [Simulación](#dart-simulación)
